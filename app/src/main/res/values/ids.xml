@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="incoming_number_textview" type="id" />
+    <item name="mark_as_student_button" type="id" />
+    <item name="mark_as_not_student_button" type="id" />
+    <item name="numberTextView" type="id" />
+    <item name="dateTextView" type="id" />
+    <item name="typeTextView" type="id" />
+    <item name="switch_student" type="id" />
+</resources>
